@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Endpro87
+- 👋 Hi, I’m @ZeOXyS.
 - 👀 I’m interested in lerning IT and technology.
-- 🌱 I’m currently learning in the high school
-- 💞️ I’m looking to collaborate on a common good and a great company for a good cause.
-- 📫 How to reach me? You can write my by Twitter (@endpro87) and Instagram (@endpro87)
+- 🌱 I’m currently learning in Baccalaureate.
+- 💞️ I’m looking to make a better world.
+- 📫 How to reach me? You can write my by Twitter (@endpro87) and Instagram (@endpro87).
 
 <!---
 Endpro87/Endpro87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
