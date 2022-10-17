@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZeOXyS.
+- 👋 Hi, I’m @ZeOXyS (you can call me Zeo).
 - 👀 I’m interested in lerning IT and technology.
 - 🌱 I’m currently learning in Baccalaureate.
 - 💞️ I’m looking to make a better world.
